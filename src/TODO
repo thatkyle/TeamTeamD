@@ -1,0 +1,4 @@
+Focus on an MVP to start. Get to a 2 player testable state ASAP, hardcode and do things manually, don't worry about balance. Just get something
+done that you can play, use the motivation from that to discover what is un-fun and continue with more difficult items
+MVP definition is you can pick and reroll 1 cost units with basic traits, econ is working, wave/prep cycle is working, wave difficulty scales a bit
+Units star up, 2 units max on board, units placeable on board, units not controllable during combat (may need to make units controllable if microing units makes sense or makes it more fun (while still having autocast enabled by default))

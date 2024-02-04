@@ -1,0 +1,1442 @@
+{
+  "u057":{
+    "unitId":"u057",
+    "unitTraits":["Mech","Marksman"],
+    "unitCost":"5",
+    "unitName":"Siege 3",
+    "unitBaseId":"hmtt",
+    "unitLevel":3
+  },
+  "u106":{
+    "unitId":"u106",
+    "unitTraits":["Furbolg","Bastion"],
+    "unitCost":"1",
+    "unitName":"Warrior 1",
+    "unitBaseId":"nfpl",
+    "unitLevel":1
+  },
+  "u017":{
+    "unitId":"u017",
+    "unitTraits":["Naga","Ranger"],
+    "unitCost":"2",
+    "unitName":"Siren 2",
+    "unitBaseId":"nnsw",
+    "unitLevel":2
+  },
+  "u165":{
+    "unitId":"u165",
+    "unitTraits":["Murloc","Fighter"],
+    "unitCost":"1",
+    "unitName":"Mutant 3",
+    "unitBaseId":"nmmu",
+    "unitLevel":3
+  },
+  "u078":{
+    "unitId":"u078",
+    "unitTraits":["Murloc","Defender","Conduit"],
+    "unitCost":"1",
+    "unitName":"Flesheater 3",
+    "unitBaseId":"nmfs",
+    "unitLevel":3
+  },
+  "u045":{
+    "unitId":"u045",
+    "unitTraits":["Furbolg","Conduit","Crusher"],
+    "unitCost":"2",
+    "unitName":"Champion 3",
+    "unitBaseId":"nfpc",
+    "unitLevel":3
+  },
+  "u047":{
+    "unitId":"u047",
+    "unitTraits":["Nerubian","Bastion","Mage"],
+    "unitCost":"2",
+    "unitName":"Warrior 2",
+    "unitBaseId":"nnwa",
+    "unitLevel":2
+  },
+  "u073":{
+    "unitId":"u073",
+    "unitTraits":["Naga","Fighter"],
+    "unitCost":"5",
+    "unitName":"Couatl 1",
+    "unitBaseId":"nwgs",
+    "unitLevel":1
+  },
+  "u060":{
+    "unitId":"u060",
+    "unitTraits":["Elves","Ranger"],
+    "unitCost":"1",
+    "unitName":"Archer 3",
+    "unitBaseId":"earc",
+    "unitLevel":3
+  },
+  "u152":{
+    "unitId":"u152",
+    "unitTraits":["Satyr","Crusher"],
+    "unitCost":"3",
+    "unitName":"Soulstealer 2",
+    "unitBaseId":"nstl",
+    "unitLevel":2
+  },
+  "u053":{
+    "unitId":"u053",
+    "unitTraits":["Salamander","Crusher"],
+    "unitCost":"2",
+    "unitName":"Spawn 2",
+    "unitBaseId":"nslr",
+    "unitLevel":2
+  },
+  "u174":{
+    "unitId":"u174",
+    "unitTraits":["Salamander","Bastion"],
+    "unitCost":"4",
+    "unitName":"Lord 3",
+    "unitBaseId":"nsll",
+    "unitLevel":3
+  },
+  "u101":{
+    "unitId":"u101",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"1",
+    "unitName":"Webspinner 2",
+    "unitBaseId":"nnwl ",
+    "unitLevel":2
+  },
+  "u025":{
+    "unitId":"u025",
+    "unitTraits":["Human","Ranger"],
+    "unitCost":"4",
+    "unitName":"Rifleman 1",
+    "unitBaseId":"hrif",
+    "unitLevel":1
+  },
+  "u012":{
+    "unitId":"u012",
+    "unitTraits":["Fae","Defender"],
+    "unitCost":"3",
+    "unitName":"Wisp 3",
+    "unitBaseId":"ewsp",
+    "unitLevel":3
+  },
+  "u163":{
+    "unitId":"u163",
+    "unitTraits":["Murloc","Fighter"],
+    "unitCost":"1",
+    "unitName":"Mutant 1",
+    "unitBaseId":"nmmu",
+    "unitLevel":1
+  },
+  "u127":{
+    "unitId":"u127",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"2",
+    "unitName":"Shaman 1",
+    "unitBaseId":"oshm",
+    "unitLevel":1
+  },
+  "u040":{
+    "unitId":"u040",
+    "unitTraits":["Human","Warden"],
+    "unitCost":"2",
+    "unitName":"Footman 1",
+    "unitBaseId":"hfoo",
+    "unitLevel":1
+  },
+  "u088":{
+    "unitId":"u088",
+    "unitTraits":["Stormcaller","Mage"],
+    "unitCost":"3",
+    "unitName":"Necro 1",
+    "unitBaseId":"nsrn",
+    "unitLevel":1
+  },
+  "u005":{
+    "unitId":"u005",
+    "unitTraits":["Orc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Tauren 2",
+    "unitBaseId":"otau",
+    "unitLevel":2
+  },
+  "u065":{
+    "unitId":"u065",
+    "unitTraits":["Furbolg","Reaver"],
+    "unitCost":"4",
+    "unitName":"Elder Shaman 2",
+    "unitBaseId":"nfpe",
+    "unitLevel":2
+  },
+  "u117":{
+    "unitId":"u117",
+    "unitTraits":["Murloc","Berserker"],
+    "unitCost":"5",
+    "unitName":"Tiderunner 3",
+    "unitBaseId":"nmrl",
+    "unitLevel":3
+  },
+  "u082":{
+    "unitId":"u082",
+    "unitTraits":["Orc","Warden","Conduit"],
+    "unitCost":"1",
+    "unitName":"Raider 1",
+    "unitBaseId":"orai",
+    "unitLevel":1
+  },
+  "u028":{
+    "unitId":"u028",
+    "unitTraits":["Human","Marksman"],
+    "unitCost":"1",
+    "unitName":"Gyro 1",
+    "unitBaseId":"hgyr",
+    "unitLevel":1
+  },
+  "u016":{
+    "unitId":"u016",
+    "unitTraits":["Naga","Ranger"],
+    "unitCost":"2",
+    "unitName":"Siren 1",
+    "unitBaseId":"nnsw",
+    "unitLevel":1
+  },
+  "u079":{
+    "unitId":"u079",
+    "unitTraits":["Naga","Warden"],
+    "unitCost":"1",
+    "unitName":"Turtle 1",
+    "unitBaseId":"nhyc",
+    "unitLevel":1
+  },
+  "u052":{
+    "unitId":"u052",
+    "unitTraits":["Salamander","Crusher"],
+    "unitCost":"2",
+    "unitName":"Spawn 1",
+    "unitBaseId":"nslr",
+    "unitLevel":1
+  },
+  "u038":{
+    "unitId":"u038",
+    "unitTraits":["Naga","Marksman"],
+    "unitCost":"4",
+    "unitName":"Snap Dragon 2",
+    "unitBaseId":"nsnp",
+    "unitLevel":2
+  },
+  "u135":{
+    "unitId":"u135",
+    "unitTraits":["Demon","Mage"],
+    "unitCost":"5",
+    "unitName":"Temptress 3",
+    "unitBaseId":"ndqt",
+    "unitLevel":3
+  },
+  "u089":{
+    "unitId":"u089",
+    "unitTraits":["Stormcaller","Mage"],
+    "unitCost":"3",
+    "unitName":"Necro 2",
+    "unitBaseId":"nsrn",
+    "unitLevel":2
+  },
+  "u015":{
+    "unitId":"u015",
+    "unitTraits":["Fae","Mage"],
+    "unitCost":"1",
+    "unitName":"Dryad 3",
+    "unitBaseId":"edry",
+    "unitLevel":3
+  },
+  "u100":{
+    "unitId":"u100",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"1",
+    "unitName":"Webspinner 1",
+    "unitBaseId":"nnwl ",
+    "unitLevel":1
+  },
+  "u063":{
+    "unitId":"u063",
+    "unitTraits":["Orc","Marksman"],
+    "unitCost":"2",
+    "unitName":"Headhunter 3",
+    "unitBaseId":"ohun",
+    "unitLevel":3
+  },
+  "u058":{
+    "unitId":"u058",
+    "unitTraits":["Elves","Ranger"],
+    "unitCost":"1",
+    "unitName":"Archer 1",
+    "unitBaseId":"earc",
+    "unitLevel":1
+  },
+  "u140":{
+    "unitId":"u140",
+    "unitTraits":["Nerubian","Defender"],
+    "unitCost":"1",
+    "unitName":"Seer 2",
+    "unitBaseId":"nnwr",
+    "unitLevel":2
+  },
+  "u034":{
+    "unitId":"u034",
+    "unitTraits":["Orc","Berserker"],
+    "unitCost":"1",
+    "unitName":"Grunt 1",
+    "unitBaseId":"ogru",
+    "unitLevel":1
+  },
+  "u105":{
+    "unitId":"u105",
+    "unitTraits":["Orc","Defender","Conduit"],
+    "unitCost":"3",
+    "unitName":"Kodo 3",
+    "unitBaseId":"okod",
+    "unitLevel":3
+  },
+  "u033":{
+    "unitId":"u033",
+    "unitTraits":["Murloc","Warden","Mage"],
+    "unitCost":"3",
+    "unitName":"Nightcrawler 3",
+    "unitBaseId":"nmrm",
+    "unitLevel":3
+  },
+  "u136":{
+    "unitId":"u136",
+    "unitTraits":["Satyr","Bastion"],
+    "unitCost":"1",
+    "unitName":"Flayer 1",
+    "unitBaseId":"nsty",
+    "unitLevel":1
+  },
+  "u132":{
+    "unitId":"u132",
+    "unitTraits":["Naga","Bastion","Crusher"],
+    "unitCost":"3",
+    "unitName":"Myrmidon 3",
+    "unitBaseId":"nmyr",
+    "unitLevel":3
+  },
+  "u122":{
+    "unitId":"u122",
+    "unitTraits":["Satyr","Reaver"],
+    "unitCost":"3",
+    "unitName":"Shadowdancer 2",
+    "unitBaseId":"nsts",
+    "unitLevel":2
+  },
+  "u128":{
+    "unitId":"u128",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"2",
+    "unitName":"Shaman 2",
+    "unitBaseId":"oshm",
+    "unitLevel":2
+  },
+  "u039":{
+    "unitId":"u039",
+    "unitTraits":["Naga","Marksman"],
+    "unitCost":"4",
+    "unitName":"Snap Dragon 3",
+    "unitBaseId":"nsnp",
+    "unitLevel":3
+  },
+  "u166":{
+    "unitId":"u166",
+    "unitTraits":["Naga","Berserker","Warblade"],
+    "unitCost":"3",
+    "unitName":"Royal Guard 1",
+    "unitBaseId":"nnrg",
+    "unitLevel":1
+  },
+  "u116":{
+    "unitId":"u116",
+    "unitTraits":["Murloc","Berserker"],
+    "unitCost":"5",
+    "unitName":"Tiderunner 2",
+    "unitBaseId":"nmrl",
+    "unitLevel":2
+  },
+  "u111":{
+    "unitId":"u111",
+    "unitTraits":["Elves","Defender"],
+    "unitCost":"2",
+    "unitName":"Mountain Giant 3",
+    "unitBaseId":"emtg",
+    "unitLevel":3
+  },
+  "u070":{
+    "unitId":"u070",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"2",
+    "unitName":"Shaman 1",
+    "unitBaseId":"nfps",
+    "unitLevel":1
+  },
+  "u096":{
+    "unitId":"u096",
+    "unitTraits":["Revenant","Marksman"],
+    "unitCost":"3",
+    "unitName":"Sea 3",
+    "unitBaseId":"nsrv",
+    "unitLevel":3
+  },
+  "u138":{
+    "unitId":"u138",
+    "unitTraits":["Satyr","Bastion"],
+    "unitCost":"1",
+    "unitName":"Flayer 3",
+    "unitBaseId":"nsty",
+    "unitLevel":3
+  },
+  "u008":{
+    "unitId":"u008",
+    "unitTraits":["Murloc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Plaguebearer 2",
+    "unitBaseId":"nmpg",
+    "unitLevel":2
+  },
+  "u080":{
+    "unitId":"u080",
+    "unitTraits":["Naga","Warden"],
+    "unitCost":"1",
+    "unitName":"Turtle 2",
+    "unitBaseId":"nhyc",
+    "unitLevel":2
+  },
+  "u115":{
+    "unitId":"u115",
+    "unitTraits":["Murloc","Berserker"],
+    "unitCost":"5",
+    "unitName":"Tiderunner 1",
+    "unitBaseId":"nmrl",
+    "unitLevel":1
+  },
+  "u048":{
+    "unitId":"u048",
+    "unitTraits":["Nerubian","Bastion","Mage"],
+    "unitCost":"2",
+    "unitName":"Warrior 3",
+    "unitBaseId":"nnwa",
+    "unitLevel":3
+  },
+  "u002":{
+    "unitId":"u002",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"4",
+    "unitName":"Witch Doctor 2",
+    "unitBaseId":"odoc",
+    "unitLevel":2
+  },
+  "u032":{
+    "unitId":"u032",
+    "unitTraits":["Murloc","Warden","Mage"],
+    "unitCost":"3",
+    "unitName":"Nightcrawler 2",
+    "unitBaseId":"nmrm",
+    "unitLevel":2
+  },
+  "u006":{
+    "unitId":"u006",
+    "unitTraits":["Orc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Tauren 3",
+    "unitBaseId":"otau",
+    "unitLevel":3
+  },
+  "u144":{
+    "unitId":"u144",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"4",
+    "unitName":"Queen 3",
+    "unitBaseId":"nnwq",
+    "unitLevel":3
+  },
+  "u071":{
+    "unitId":"u071",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"2",
+    "unitName":"Shaman 2",
+    "unitBaseId":"nfps",
+    "unitLevel":2
+  },
+  "u062":{
+    "unitId":"u062",
+    "unitTraits":["Orc","Marksman"],
+    "unitCost":"2",
+    "unitName":"Headhunter 2",
+    "unitBaseId":"ohun",
+    "unitLevel":2
+  },
+  "u046":{
+    "unitId":"u046",
+    "unitTraits":["Nerubian","Bastion","Mage"],
+    "unitCost":"2",
+    "unitName":"Warrior 1",
+    "unitBaseId":"nnwa",
+    "unitLevel":1
+  },
+  "u104":{
+    "unitId":"u104",
+    "unitTraits":["Orc","Defender","Conduit"],
+    "unitCost":"3",
+    "unitName":"Kodo 2",
+    "unitBaseId":"okod",
+    "unitLevel":2
+  },
+  "u087":{
+    "unitId":"u087",
+    "unitTraits":["Revenant","Ranger"],
+    "unitCost":"5",
+    "unitName":"Fathom 3",
+    "unitBaseId":"ndrv",
+    "unitLevel":3
+  },
+  "u022":{
+    "unitId":"u022",
+    "unitTraits":["Nerubian","Warden"],
+    "unitCost":"4",
+    "unitName":"Spider Lord 1",
+    "unitBaseId":"nnws",
+    "unitLevel":1
+  },
+  "u023":{
+    "unitId":"u023",
+    "unitTraits":["Nerubian","Warden"],
+    "unitCost":"4",
+    "unitName":"Spider Lord 2",
+    "unitBaseId":"nnws",
+    "unitLevel":2
+  },
+  "u119":{
+    "unitId":"u119",
+    "unitTraits":["Human","Warblade"],
+    "unitCost":"3",
+    "unitName":"Knight 2",
+    "unitBaseId":"hkni",
+    "unitLevel":2
+  },
+  "u018":{
+    "unitId":"u018",
+    "unitTraits":["Naga","Ranger"],
+    "unitCost":"2",
+    "unitName":"Siren 3",
+    "unitBaseId":"nnsw",
+    "unitLevel":3
+  },
+  "u081":{
+    "unitId":"u081",
+    "unitTraits":["Naga","Warden"],
+    "unitCost":"1",
+    "unitName":"Turtle 3",
+    "unitBaseId":"nhyc",
+    "unitLevel":3
+  },
+  "u055":{
+    "unitId":"u055",
+    "unitTraits":["Mech","Marksman"],
+    "unitCost":"5",
+    "unitName":"Siege 1",
+    "unitBaseId":"hmtt",
+    "unitLevel":1
+  },
+  "u044":{
+    "unitId":"u044",
+    "unitTraits":["Furbolg","Conduit","Crusher"],
+    "unitCost":"2",
+    "unitName":"Champion 2",
+    "unitBaseId":"nfpc",
+    "unitLevel":2
+  },
+  "u169":{
+    "unitId":"u169",
+    "unitTraits":["Furbolg","Defender","Crusher"],
+    "unitCost":"5",
+    "unitName":"Primal 1",
+    "unitBaseId":"nfrp",
+    "unitLevel":1
+  },
+  "u094":{
+    "unitId":"u094",
+    "unitTraits":["Revenant","Marksman"],
+    "unitCost":"3",
+    "unitName":"Sea 1",
+    "unitBaseId":"nsrv",
+    "unitLevel":1
+  },
+  "u031":{
+    "unitId":"u031",
+    "unitTraits":["Murloc","Warden","Mage"],
+    "unitCost":"3",
+    "unitName":"Nightcrawler 1",
+    "unitBaseId":"nmrm",
+    "unitLevel":1
+  },
+  "u077":{
+    "unitId":"u077",
+    "unitTraits":["Murloc","Defender","Conduit"],
+    "unitCost":"1",
+    "unitName":"Flesheater 2",
+    "unitBaseId":"nmfs",
+    "unitLevel":2
+  },
+  "u004":{
+    "unitId":"u004",
+    "unitTraits":["Orc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Tauren 1",
+    "unitBaseId":"otau",
+    "unitLevel":1
+  },
+  "u171":{
+    "unitId":"u171",
+    "unitTraits":["Furbolg","Defender","Crusher"],
+    "unitCost":"5",
+    "unitName":"Primal 3",
+    "unitBaseId":"nfrp",
+    "unitLevel":3
+  },
+  "u035":{
+    "unitId":"u035",
+    "unitTraits":["Orc","Berserker"],
+    "unitCost":"1",
+    "unitName":"Grunt 2",
+    "unitBaseId":"ogru",
+    "unitLevel":2
+  },
+  "u129":{
+    "unitId":"u129",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"2",
+    "unitName":"Shaman 3",
+    "unitBaseId":"oshm",
+    "unitLevel":3
+  },
+  "u158":{
+    "unitId":"u158",
+    "unitTraits":["Elves","Crusher"],
+    "unitCost":"1",
+    "unitName":"Druid of the Claw 2",
+    "unitBaseId":"edoc",
+    "unitLevel":2
+  },
+  "u086":{
+    "unitId":"u086",
+    "unitTraits":["Revenant","Ranger"],
+    "unitCost":"5",
+    "unitName":"Fathom 2",
+    "unitBaseId":"ndrv",
+    "unitLevel":2
+  },
+  "u019":{
+    "unitId":"u019",
+    "unitTraits":["Revenant","Sorceror"],
+    "unitCost":"2",
+    "unitName":"Tide 1",
+    "unitBaseId":"ntrv",
+    "unitLevel":1
+  },
+  "u099":{
+    "unitId":"u099",
+    "unitTraits":["Furbolg","Warden"],
+    "unitCost":"3",
+    "unitName":"Tracker 3",
+    "unitBaseId":"nfpt",
+    "unitLevel":3
+  },
+  "u049":{
+    "unitId":"u049",
+    "unitTraits":["Sea Giant","Bastion"],
+    "unitCost":"5",
+    "unitName":"Behemoth 1",
+    "unitBaseId":"nsgb",
+    "unitLevel":1
+  },
+  "u036":{
+    "unitId":"u036",
+    "unitTraits":["Orc","Berserker"],
+    "unitCost":"1",
+    "unitName":"Grunt 3",
+    "unitBaseId":"ogru",
+    "unitLevel":3
+  },
+  "u180":{
+    "unitId":"u180",
+    "unitTraits":["Stormcaller","Sorceror"],
+    "unitCost":"5",
+    "unitName":"Warlock 3",
+    "unitBaseId":"nsrw",
+    "unitLevel":3
+  },
+  "u179":{
+    "unitId":"u179",
+    "unitTraits":["Stormcaller","Sorceror"],
+    "unitCost":"5",
+    "unitName":"Warlock 2",
+    "unitBaseId":"nsrw",
+    "unitLevel":2
+  },
+  "u178":{
+    "unitId":"u178",
+    "unitTraits":["Stormcaller","Sorceror"],
+    "unitCost":"5",
+    "unitName":"Warlock 1",
+    "unitBaseId":"nsrw",
+    "unitLevel":1
+  },
+  "u177":{
+    "unitId":"u177",
+    "unitTraits":["Salamander","Berserker"],
+    "unitCost":"4",
+    "unitName":"Vizier 3",
+    "unitBaseId":"nslv",
+    "unitLevel":3
+  },
+  "u157":{
+    "unitId":"u157",
+    "unitTraits":["Elves","Crusher"],
+    "unitCost":"1",
+    "unitName":"Druid of the Claw 1",
+    "unitBaseId":"edoc",
+    "unitLevel":1
+  },
+  "u139":{
+    "unitId":"u139",
+    "unitTraits":["Nerubian","Defender"],
+    "unitCost":"1",
+    "unitName":"Seer 1",
+    "unitBaseId":"nnwr",
+    "unitLevel":1
+  },
+  "u056":{
+    "unitId":"u056",
+    "unitTraits":["Mech","Marksman"],
+    "unitCost":"5",
+    "unitName":"Siege 2",
+    "unitBaseId":"hmtt",
+    "unitLevel":2
+  },
+  "u175":{
+    "unitId":"u175",
+    "unitTraits":["Salamander","Berserker"],
+    "unitCost":"4",
+    "unitName":"Vizier 1",
+    "unitBaseId":"nslv",
+    "unitLevel":1
+  },
+  "u066":{
+    "unitId":"u066",
+    "unitTraits":["Furbolg","Reaver"],
+    "unitCost":"4",
+    "unitName":"Elder Shaman 3",
+    "unitBaseId":"nfpe",
+    "unitLevel":3
+  },
+  "u170":{
+    "unitId":"u170",
+    "unitTraits":["Furbolg","Defender","Crusher"],
+    "unitCost":"5",
+    "unitName":"Primal 2",
+    "unitBaseId":"nfrp",
+    "unitLevel":2
+  },
+  "u054":{
+    "unitId":"u054",
+    "unitTraits":["Salamander","Crusher"],
+    "unitCost":"2",
+    "unitName":"Spawn 3",
+    "unitBaseId":"nslr",
+    "unitLevel":3
+  },
+  "u168":{
+    "unitId":"u168",
+    "unitTraits":["Naga","Berserker","Warblade"],
+    "unitCost":"3",
+    "unitName":"Royal Guard 3",
+    "unitBaseId":"nnrg",
+    "unitLevel":3
+  },
+  "u084":{
+    "unitId":"u084",
+    "unitTraits":["Orc","Warden","Conduit"],
+    "unitCost":"1",
+    "unitName":"Raider 3",
+    "unitBaseId":"orai",
+    "unitLevel":3
+  },
+  "u173":{
+    "unitId":"u173",
+    "unitTraits":["Salamander","Bastion"],
+    "unitCost":"4",
+    "unitName":"Lord 2",
+    "unitBaseId":"nsll",
+    "unitLevel":2
+  },
+  "u172":{
+    "unitId":"u172",
+    "unitTraits":["Salamander","Bastion"],
+    "unitCost":"4",
+    "unitName":"Lord 1",
+    "unitBaseId":"nsll",
+    "unitLevel":1
+  },
+  "u029":{
+    "unitId":"u029",
+    "unitTraits":["Human","Marksman"],
+    "unitCost":"1",
+    "unitName":"Gyro 2",
+    "unitBaseId":"hgyr",
+    "unitLevel":2
+  },
+  "u125":{
+    "unitId":"u125",
+    "unitTraits":["Murloc","Ranger"],
+    "unitCost":"2",
+    "unitName":"Huntsman 2",
+    "unitBaseId":"nmrr",
+    "unitLevel":2
+  },
+  "u085":{
+    "unitId":"u085",
+    "unitTraits":["Revenant","Ranger"],
+    "unitCost":"5",
+    "unitName":"Fathom 1",
+    "unitBaseId":"ndrv",
+    "unitLevel":1
+  },
+  "u098":{
+    "unitId":"u098",
+    "unitTraits":["Furbolg","Warden"],
+    "unitCost":"3",
+    "unitName":"Tracker 2",
+    "unitBaseId":"nfpt",
+    "unitLevel":2
+  },
+  "u037":{
+    "unitId":"u037",
+    "unitTraits":["Naga","Marksman"],
+    "unitCost":"4",
+    "unitName":"Snap Dragon 1",
+    "unitBaseId":"nsnp",
+    "unitLevel":1
+  },
+  "u102":{
+    "unitId":"u102",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"1",
+    "unitName":"Webspinner 3",
+    "unitBaseId":"nnwl ",
+    "unitLevel":3
+  },
+  "u164":{
+    "unitId":"u164",
+    "unitTraits":["Murloc","Fighter"],
+    "unitCost":"1",
+    "unitName":"Mutant 2",
+    "unitBaseId":"nmmu",
+    "unitLevel":2
+  },
+  "u162":{
+    "unitId":"u162",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"4",
+    "unitName":"Ursa 3",
+    "unitBaseId":"nfpu",
+    "unitLevel":3
+  },
+  "u161":{
+    "unitId":"u161",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"4",
+    "unitName":"Ursa 2",
+    "unitBaseId":"nfpu",
+    "unitLevel":2
+  },
+  "u011":{
+    "unitId":"u011",
+    "unitTraits":["Fae","Defender"],
+    "unitCost":"3",
+    "unitName":"Wisp 2",
+    "unitBaseId":"ewsp",
+    "unitLevel":2
+  },
+  "u093":{
+    "unitId":"u093",
+    "unitTraits":["Salamander","Sorceror"],
+    "unitCost":"3",
+    "unitName":"Hatchling 3",
+    "unitBaseId":"nslh",
+    "unitLevel":3
+  },
+  "u160":{
+    "unitId":"u160",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"4",
+    "unitName":"Ursa 1",
+    "unitBaseId":"nfpu",
+    "unitLevel":1
+  },
+  "u159":{
+    "unitId":"u159",
+    "unitTraits":["Elves","Crusher"],
+    "unitCost":"1",
+    "unitName":"Druid of the Claw 3",
+    "unitBaseId":"edoc",
+    "unitLevel":3
+  },
+  "u156":{
+    "unitId":"u156",
+    "unitTraits":["Fae","Reaver"],
+    "unitCost":"3",
+    "unitName":"Faerie Dragon 3",
+    "unitBaseId":"efdr",
+    "unitLevel":3
+  },
+  "u155":{
+    "unitId":"u155",
+    "unitTraits":["Fae","Reaver"],
+    "unitCost":"3",
+    "unitName":"Faerie Dragon 2",
+    "unitBaseId":"efdr",
+    "unitLevel":2
+  },
+  "u154":{
+    "unitId":"u154",
+    "unitTraits":["Fae","Reaver"],
+    "unitCost":"3",
+    "unitName":"Faerie Dragon 1",
+    "unitBaseId":"efdr",
+    "unitLevel":1
+  },
+  "u109":{
+    "unitId":"u109",
+    "unitTraits":["Elves","Defender"],
+    "unitCost":"2",
+    "unitName":"Mountain Giant 1",
+    "unitBaseId":"emtg",
+    "unitLevel":1
+  },
+  "u151":{
+    "unitId":"u151",
+    "unitTraits":["Satyr","Crusher"],
+    "unitCost":"3",
+    "unitName":"Soulstealer 1",
+    "unitBaseId":"nstl",
+    "unitLevel":1
+  },
+  "u150":{
+    "unitId":"u150",
+    "unitTraits":["Elves","Reaver"],
+    "unitCost":"2",
+    "unitName":"Huntress 3",
+    "unitBaseId":"esen",
+    "unitLevel":3
+  },
+  "u149":{
+    "unitId":"u149",
+    "unitTraits":["Elves","Reaver"],
+    "unitCost":"2",
+    "unitName":"Huntress 2",
+    "unitBaseId":"esen",
+    "unitLevel":2
+  },
+  "u148":{
+    "unitId":"u148",
+    "unitTraits":["Elves","Reaver"],
+    "unitCost":"2",
+    "unitName":"Huntress 1",
+    "unitBaseId":"esen",
+    "unitLevel":1
+  },
+  "u083":{
+    "unitId":"u083",
+    "unitTraits":["Orc","Warden","Conduit"],
+    "unitCost":"1",
+    "unitName":"Raider 2",
+    "unitBaseId":"orai",
+    "unitLevel":2
+  },
+  "u147":{
+    "unitId":"u147",
+    "unitTraits":["Satyr","Defender"],
+    "unitCost":"4",
+    "unitName":"Trickster 3",
+    "unitBaseId":"nsat",
+    "unitLevel":3
+  },
+  "u146":{
+    "unitId":"u146",
+    "unitTraits":["Satyr","Defender"],
+    "unitCost":"4",
+    "unitName":"Trickster 2",
+    "unitBaseId":"nsat",
+    "unitLevel":2
+  },
+  "u145":{
+    "unitId":"u145",
+    "unitTraits":["Satyr","Defender"],
+    "unitCost":"4",
+    "unitName":"Trickster 1",
+    "unitBaseId":"nsat",
+    "unitLevel":1
+  },
+  "u143":{
+    "unitId":"u143",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"4",
+    "unitName":"Queen 2",
+    "unitBaseId":"nnwq",
+    "unitLevel":2
+  },
+  "u142":{
+    "unitId":"u142",
+    "unitTraits":["Nerubian","Sorceror"],
+    "unitCost":"4",
+    "unitName":"Queen 1",
+    "unitBaseId":"nnwq",
+    "unitLevel":1
+  },
+  "u141":{
+    "unitId":"u141",
+    "unitTraits":["Nerubian","Defender"],
+    "unitCost":"1",
+    "unitName":"Seer 3",
+    "unitBaseId":"nnwr",
+    "unitLevel":3
+  },
+  "u041":{
+    "unitId":"u041",
+    "unitTraits":["Human","Warden"],
+    "unitCost":"2",
+    "unitName":"Footman 2",
+    "unitBaseId":"hfoo",
+    "unitLevel":2
+  },
+  "u007":{
+    "unitId":"u007",
+    "unitTraits":["Murloc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Plaguebearer 1",
+    "unitBaseId":"nmpg",
+    "unitLevel":1
+  },
+  "u001":{
+    "unitId":"u001",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"4",
+    "unitName":"Witch Doctor 1",
+    "unitBaseId":"odoc",
+    "unitLevel":1
+  },
+  "u137":{
+    "unitId":"u137",
+    "unitTraits":["Satyr","Bastion"],
+    "unitCost":"1",
+    "unitName":"Flayer 2",
+    "unitBaseId":"nsty",
+    "unitLevel":2
+  },
+  "u068":{
+    "unitId":"u068",
+    "unitTraits":["Satyr","Berserker"],
+    "unitCost":"2",
+    "unitName":"Hellcaller 2",
+    "unitBaseId":"nsth",
+    "unitLevel":2
+  },
+  "u134":{
+    "unitId":"u134",
+    "unitTraits":["Demon","Mage"],
+    "unitCost":"5",
+    "unitName":"Temptress 2",
+    "unitBaseId":"ndqt",
+    "unitLevel":2
+  },
+  "u010":{
+    "unitId":"u010",
+    "unitTraits":["Fae","Defender"],
+    "unitCost":"3",
+    "unitName":"Wisp 1",
+    "unitBaseId":"ewsp",
+    "unitLevel":1
+  },
+  "u133":{
+    "unitId":"u133",
+    "unitTraits":["Demon","Mage"],
+    "unitCost":"5",
+    "unitName":"Temptress 1",
+    "unitBaseId":"ndqt",
+    "unitLevel":1
+  },
+  "u131":{
+    "unitId":"u131",
+    "unitTraits":["Naga","Bastion","Crusher"],
+    "unitCost":"3",
+    "unitName":"Myrmidon 2",
+    "unitBaseId":"nmyr",
+    "unitLevel":2
+  },
+  "u130":{
+    "unitId":"u130",
+    "unitTraits":["Naga","Bastion","Crusher"],
+    "unitCost":"3",
+    "unitName":"Myrmidon 1",
+    "unitBaseId":"nmyr",
+    "unitLevel":1
+  },
+  "u026":{
+    "unitId":"u026",
+    "unitTraits":["Human","Ranger"],
+    "unitCost":"4",
+    "unitName":"Rifleman 2",
+    "unitBaseId":"hrif",
+    "unitLevel":2
+  },
+  "u097":{
+    "unitId":"u097",
+    "unitTraits":["Furbolg","Warden"],
+    "unitCost":"3",
+    "unitName":"Tracker 1",
+    "unitBaseId":"nfpt",
+    "unitLevel":1
+  },
+  "u009":{
+    "unitId":"u009",
+    "unitTraits":["Murloc","Reaver"],
+    "unitCost":"4",
+    "unitName":"Plaguebearer 3",
+    "unitBaseId":"nmpg",
+    "unitLevel":3
+  },
+  "u120":{
+    "unitId":"u120",
+    "unitTraits":["Human","Warblade"],
+    "unitCost":"3",
+    "unitName":"Knight 3",
+    "unitBaseId":"hkni",
+    "unitLevel":3
+  },
+  "u059":{
+    "unitId":"u059",
+    "unitTraits":["Elves","Ranger"],
+    "unitCost":"1",
+    "unitName":"Archer 2",
+    "unitBaseId":"earc",
+    "unitLevel":2
+  },
+  "u064":{
+    "unitId":"u064",
+    "unitTraits":["Furbolg","Reaver"],
+    "unitCost":"4",
+    "unitName":"Elder Shaman 1",
+    "unitBaseId":"nfpe",
+    "unitLevel":1
+  },
+  "u013":{
+    "unitId":"u013",
+    "unitTraits":["Fae","Mage"],
+    "unitCost":"1",
+    "unitName":"Dryad 1",
+    "unitBaseId":"edry",
+    "unitLevel":1
+  },
+  "u126":{
+    "unitId":"u126",
+    "unitTraits":["Murloc","Ranger"],
+    "unitCost":"2",
+    "unitName":"Huntsman 3",
+    "unitBaseId":"nmrr",
+    "unitLevel":3
+  },
+  "u103":{
+    "unitId":"u103",
+    "unitTraits":["Orc","Defender","Conduit"],
+    "unitCost":"3",
+    "unitName":"Kodo 1",
+    "unitBaseId":"okod",
+    "unitLevel":1
+  },
+  "u167":{
+    "unitId":"u167",
+    "unitTraits":["Naga","Berserker","Warblade"],
+    "unitCost":"3",
+    "unitName":"Royal Guard 2",
+    "unitBaseId":"nnrg",
+    "unitLevel":2
+  },
+  "u076":{
+    "unitId":"u076",
+    "unitTraits":["Murloc","Defender","Conduit"],
+    "unitCost":"1",
+    "unitName":"Flesheater 1",
+    "unitBaseId":"nmfs",
+    "unitLevel":1
+  },
+  "u124":{
+    "unitId":"u124",
+    "unitTraits":["Murloc","Ranger"],
+    "unitCost":"2",
+    "unitName":"Huntsman 1",
+    "unitBaseId":"nmrr",
+    "unitLevel":1
+  },
+  "u030":{
+    "unitId":"u030",
+    "unitTraits":["Human","Marksman"],
+    "unitCost":"1",
+    "unitName":"Gyro 3",
+    "unitBaseId":"hgyr",
+    "unitLevel":3
+  },
+  "u069":{
+    "unitId":"u069",
+    "unitTraits":["Satyr","Berserker"],
+    "unitCost":"2",
+    "unitName":"Hellcaller 3",
+    "unitBaseId":"nsth",
+    "unitLevel":3
+  },
+  "u003":{
+    "unitId":"u003",
+    "unitTraits":["Orc","Mage"],
+    "unitCost":"4",
+    "unitName":"Witch Doctor 3",
+    "unitBaseId":"odoc",
+    "unitLevel":3
+  },
+  "u123":{
+    "unitId":"u123",
+    "unitTraits":["Satyr","Reaver"],
+    "unitCost":"3",
+    "unitName":"Shadowdancer 3",
+    "unitBaseId":"nsts",
+    "unitLevel":3
+  },
+  "u050":{
+    "unitId":"u050",
+    "unitTraits":["Sea Giant","Bastion"],
+    "unitCost":"5",
+    "unitName":"Behemoth 2",
+    "unitBaseId":"nsgb",
+    "unitLevel":2
+  },
+  "u121":{
+    "unitId":"u121",
+    "unitTraits":["Satyr","Reaver"],
+    "unitCost":"3",
+    "unitName":"Shadowdancer 1",
+    "unitBaseId":"nsts",
+    "unitLevel":1
+  },
+  "u118":{
+    "unitId":"u118",
+    "unitTraits":["Human","Warblade"],
+    "unitCost":"3",
+    "unitName":"Knight 1",
+    "unitBaseId":"hkni",
+    "unitLevel":1
+  },
+  "u114":{
+    "unitId":"u114",
+    "unitTraits":["Fae","Crusher"],
+    "unitCost":"4",
+    "unitName":"Spirit Bear 3",
+    "unitBaseId":"edcm",
+    "unitLevel":3
+  },
+  "u043":{
+    "unitId":"u043",
+    "unitTraits":["Furbolg","Conduit","Crusher"],
+    "unitCost":"2",
+    "unitName":"Champion 1",
+    "unitBaseId":"nfpc",
+    "unitLevel":1
+  },
+  "u112":{
+    "unitId":"u112",
+    "unitTraits":["Fae","Crusher"],
+    "unitCost":"4",
+    "unitName":"Spirit Bear 1",
+    "unitBaseId":"edcm",
+    "unitLevel":1
+  },
+  "u107":{
+    "unitId":"u107",
+    "unitTraits":["Furbolg","Bastion"],
+    "unitCost":"1",
+    "unitName":"Warrior 2",
+    "unitBaseId":"nfpl",
+    "unitLevel":2
+  },
+  "u075":{
+    "unitId":"u075",
+    "unitTraits":["Naga","Fighter"],
+    "unitCost":"5",
+    "unitName":"Couatl 3",
+    "unitBaseId":"nwgs",
+    "unitLevel":3
+  },
+  "u092":{
+    "unitId":"u092",
+    "unitTraits":["Salamander","Sorceror"],
+    "unitCost":"3",
+    "unitName":"Hatchling 2",
+    "unitBaseId":"nslh",
+    "unitLevel":2
+  },
+  "u110":{
+    "unitId":"u110",
+    "unitTraits":["Elves","Defender"],
+    "unitCost":"2",
+    "unitName":"Mountain Giant 2",
+    "unitBaseId":"emtg",
+    "unitLevel":2
+  },
+  "u153":{
+    "unitId":"u153",
+    "unitTraits":["Satyr","Crusher"],
+    "unitCost":"3",
+    "unitName":"Soulstealer 3",
+    "unitBaseId":"nstl",
+    "unitLevel":3
+  },
+  "u014":{
+    "unitId":"u014",
+    "unitTraits":["Fae","Mage"],
+    "unitCost":"1",
+    "unitName":"Dryad 2",
+    "unitBaseId":"edry",
+    "unitLevel":2
+  },
+  "u024":{
+    "unitId":"u024",
+    "unitTraits":["Nerubian","Warden"],
+    "unitCost":"4",
+    "unitName":"Spider Lord 3",
+    "unitBaseId":"nnws",
+    "unitLevel":3
+  },
+  "u051":{
+    "unitId":"u051",
+    "unitTraits":["Sea Giant","Bastion"],
+    "unitCost":"5",
+    "unitName":"Behemoth 3",
+    "unitBaseId":"nsgb",
+    "unitLevel":3
+  },
+  "u108":{
+    "unitId":"u108",
+    "unitTraits":["Furbolg","Bastion"],
+    "unitCost":"1",
+    "unitName":"Warrior 3",
+    "unitBaseId":"nfpl",
+    "unitLevel":3
+  },
+  "u020":{
+    "unitId":"u020",
+    "unitTraits":["Revenant","Sorceror"],
+    "unitCost":"2",
+    "unitName":"Tide 2",
+    "unitBaseId":"ntrv",
+    "unitLevel":2
+  },
+  "u074":{
+    "unitId":"u074",
+    "unitTraits":["Naga","Fighter"],
+    "unitCost":"5",
+    "unitName":"Couatl 2",
+    "unitBaseId":"nwgs",
+    "unitLevel":2
+  },
+  "u042":{
+    "unitId":"u042",
+    "unitTraits":["Human","Warden"],
+    "unitCost":"2",
+    "unitName":"Footman 3",
+    "unitBaseId":"hfoo",
+    "unitLevel":3
+  },
+  "u091":{
+    "unitId":"u091",
+    "unitTraits":["Salamander","Sorceror"],
+    "unitCost":"3",
+    "unitName":"Hatchling 1",
+    "unitBaseId":"nslh",
+    "unitLevel":1
+  },
+  "u113":{
+    "unitId":"u113",
+    "unitTraits":["Fae","Crusher"],
+    "unitCost":"4",
+    "unitName":"Spirit Bear 2",
+    "unitBaseId":"edcm",
+    "unitLevel":2
+  },
+  "u061":{
+    "unitId":"u061",
+    "unitTraits":["Orc","Marksman"],
+    "unitCost":"2",
+    "unitName":"Headhunter 1",
+    "unitBaseId":"ohun",
+    "unitLevel":1
+  },
+  "u095":{
+    "unitId":"u095",
+    "unitTraits":["Revenant","Marksman"],
+    "unitCost":"3",
+    "unitName":"Sea 2",
+    "unitBaseId":"nsrv",
+    "unitLevel":2
+  },
+  "u090":{
+    "unitId":"u090",
+    "unitTraits":["Stormcaller","Mage"],
+    "unitCost":"3",
+    "unitName":"Necro 3",
+    "unitBaseId":"nsrn",
+    "unitLevel":3
+  },
+  "u027":{
+    "unitId":"u027",
+    "unitTraits":["Human","Ranger"],
+    "unitCost":"4",
+    "unitName":"Rifleman 3",
+    "unitBaseId":"hrif",
+    "unitLevel":3
+  },
+  "u067":{
+    "unitId":"u067",
+    "unitTraits":["Satyr","Berserker"],
+    "unitCost":"2",
+    "unitName":"Hellcaller 1",
+    "unitBaseId":"nsth",
+    "unitLevel":1
+  },
+  "u072":{
+    "unitId":"u072",
+    "unitTraits":["Furbolg","Fighter"],
+    "unitCost":"2",
+    "unitName":"Shaman 3",
+    "unitBaseId":"nfps",
+    "unitLevel":3
+  },
+  "u021":{
+    "unitId":"u021",
+    "unitTraits":["Revenant","Sorceror"],
+    "unitCost":"2",
+    "unitName":"Tide 3",
+    "unitBaseId":"ntrv",
+    "unitLevel":3
+  },
+  "u176":{
+    "unitId":"u176",
+    "unitTraits":["Salamander","Berserker"],
+    "unitCost":"4",
+    "unitName":"Vizier 2",
+    "unitBaseId":"nslv",
+    "unitLevel":2
+  }
+}

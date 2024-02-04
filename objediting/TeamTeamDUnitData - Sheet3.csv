@@ -1,0 +1,61 @@
+New Trait 1,New Trait 2,New Trait 3,BaseID,New Unit,Cost,HP1,HP2,HP3,AD1,AD2,AD3,Range,AS,AR,MR,Starting Mana,Skill Mana,Skill Stats
+Orc,Mage,None,odoc,Witch Doctor,4,700,1260,2268,40,60,90,700,1.33,30,30,0,30,Damage: 275% / 410% / 820% of spell power Enhanced damage: 480% / 720% / 1440% of spell power
+Orc,Reaver,None,otau,Tauren,4,950,1710,3078,60,90,135,100,1.18,50,50,10,50,Hit damage: 190% / 190% / 380% of attack power Charge Damage: 80% / 120% / 400% of Spell Power
+Murloc,Reaver,None,nmpg,Plaguebearer,4,1000,1800,3240,70,105,158,100,1.11,65,65,0,60,Dagger Baptistry damage: 275% / 275% / 550% of attack power Mana returned: 12% / 12% / 20% of spell power
+Fae,Defender,None,ewsp,Wisp,3,900,1620,2916,45,68,101,100,1.54,55,55,0,45,Damage: 80% / 120% / 190% of spell power Total Damage: Damage + 150% / 175% / 200% of Defense
+Fae,Mage,None,edry,Dryad,1,450,810,1458,40,60,90,700,1.54,20,20,0,50,Damage: 220% / 330% / 495% of spell power Damage per additional use: 80% / 120% / 180% of spell power
+Naga,Ranger,None,nnsw,Siren,2,600,1080,1944,55,83,124,700,1.33,20,20,40,135,Stun Duration: 1.5 / 1.5 / 2 Damage: 725% of attack power Damage %: 10% of spell power Damage to surrounding enemies: Damage % * Damage
+Revenant,Sorceror,None,ntrv,Tide,2,550,990,1782,40,60,90,700,1.43,20,20,15,60,Note: 200% / 300% / 450% of Spell Power Ancient Bell: 120% / 150% / 180% of spell power Street performance: 1% / 1% / 3% Headliner Note Damage: 85 / 125 / 190
+Nerubian,Warden,None,nnws,Spider Lord,4,1000,1800,3240,60,90,135,100,1.67,60,60,60,120,Blast damage: 100% / 150% / 1000% of spell power Shield: 600% / 750% / 2000% of spell power
+Human,Ranger,None,hrif,Rifleman,4,700,1260,2268,70,105,158,700,1.25,30,30,0,90,Damage proportional to attack power: 360% / 360% / 750% of attack power Damage proportional to spell power: 40% / 60% / 200% of spell power Total damage: damage proportional to attack power + damage proportional to spell power
+Human,Marksman,None,hgyr,Gyro,1,450,810,1458,48,72,108,700,1.43,15,15,15,60,Damage: 320% of attack power Duration: 5% of spell power
+Murloc,Warden,Mage,nmrm,Nightcrawler,3,850,1530,2754,50,75,113,100,1.54,40,40,50,125,Shield: 400% / 450% / 550% of spell power Damage: 60% / 90% / 145% of spell power
+Orc,Berserker,None,ogru,Grunt,1,550,990,1782,45,68,101,100,1.43,35,35,30,90,Damage: 200% / 300% / 450% of spell power Health Recovery: 25 / 30 / 35
+Naga,Marksman,None,nsnp,Snap Dragon,4,700,1260,2268,70,105,158,700,1.18,30,30,0,40,Damage: 370% / 370% / 740% of attack power Damage proportional to wave spell power: 80% / 120% / 360% of spell power Damage proportional to wave attack power: 350% / 350% / 700% of attack power Wave total damage: damage proportional to attack power + damage proportional to spell power
+Human,Warden,None,hfoo,Footman,2,800,1440,2592,55,83,124,100,1.43,45,45,40,90,Health: 215% / 230% / 245% of spell power Damage: 160% of attack power + 10% of health
+Furbolg,Conduit,Crusher,nfpc,Champion,2,700,1260,2268,55,83,124,300,1.54,45,45,0,70,Health: 500% / 550% / 600% of spell power Damage: 335% / 335% / 335% of attack power
+Nerubian,Bastion,Mage,nnwa,Warrior,2,750,1350,2430,50,75,113,100,1.67,45,45,40,80,Recovery: 500 / 575 / 650 Damage: 190% / 285% / 440% of spell power
+Sea Giant,Bastion,None,nsgb,Behemoth,5,1050,1890,3402,70,105,158,100,1.25,70,70,70,150,Damage: 60% / 60% / 500% of armor and magic resistance Area Damage: 100% / 150% / 4000% of Spell Power Armor and Magic Resistance: 100 / 150 / 400 Tentacle damage: damage proportional to defense + damage proportional to magic resistance
+Salamander,Crusher,None,nslr,Spawn,2,750,1350,2430,55,83,124,100,1.11,35,35,50,120,Slash damage: 230% / 345% / 520% ​​​​of spell power Spin Damage: 140% / 210% / 315% of Spell Power Range: 1 + current range (1)
+Mech,Marksman,None,hmtt,Siege,5,850,1530,2754,85,128,191,700,1.18,25,25,0,50,Rifles per skill use: 1 / 1 / 4 Damage proportional to spell power: 15% / 25% / 144% Damage proportional to attack power: 60% / 60% / 444% Damage: Damage proportional to attack power + Damage proportional to spell power
+Elves,Ranger,None,earc,Archer,1,450,810,1458,50,75,113,700,1.43,15,15,0,50,Attack Speed: 4% of Spell Power Rocket damage: 50% of attack power
+Orc,Marksman,None,ohun,Headhunter,2,600,1080,1944,55,83,124,900,1.33,20,20,0,30,Damage proportional to attack power: 290% / 290% / 300% Damage proportional to spell power: 40% / 60% / 90% Damage: Damage proportional to attack power + Damage proportional to spell power
+Furbolg,Reaver,None,nfpe,Elder Shaman,4,700,1260,2268,40,60,90,700,1.33,30,30,15,105,Damage: 175% / 260% / 580% of spell power
+Satyr,Berserker,None,nsth,Hellcaller,2,650,1170,2106,40,60,90,300,1.33,35,35,0,60,Damage: 150% / 225% / 340% of spell power
+Furbolg,Fighter,None,nfps,Shaman,2,550,990,1782,35,53,79,700,1.33,20,20,0,120,Bonus damage: 35% / 55% / 80% of spell power Final damage: 240% / 360% / 540% of spell power
+Naga,Fighter,None,nwgs,Couatl,5,1200,2160,3888,75,113,169,100,1.05,70,70,0,50,Damage: 400% / 600% / 4000%
+Murloc,Defender,Conduit,nmfs,Flesheater,1,700,1260,2268,40,60,90,300,1.67,40,40,30,90,Impact Damage: 145% / 215% / 325% of Spell Power
+Naga,Warden,None,nhyc,Turtle,1,650,1170,2106,50,75,113,100,1.67,40,40,0,40,Damage reduction proportional to spell power: 20% / 20% / 25% of spell power Damage reduction: (up to 75%) 20% + damage reduction proportional to spell power Damage: 800% of attack power
+Orc,Warden,Conduit,orai,Raider,1,600,1080,1944,50,75,113,100,1.82,40,40,70,120,Damage: 180% / 270% / 400% of spell power Self-healing amount: 180% / 220% / 260% of spell power Ally recovery amount: 90% / 110% / 130% of spell power
+Revenant,Ranger,None,ndrv,Fathom,5,850,1530,2754,70,105,158,700,1.11,30,30,50,125,Defense Reduction: 3 / 5 / 20 Damage proportional to spell power: 20% / 30% / 100% of spell power Damage proportional to attack power: 60% / 60% / 1000% of attack power Number of shots: 14 + 1 per 20% bonus attack speed Total damage: damage proportional to attack power + damage proportional to spell power
+Stormcaller,Mage,None,nsrn,Necro,3,850,1170,2506,40,60,90,700,1.43,20,20,0,40,Damage: 250% / 375% / 600% of spell power Secondary target damage: 150% / 225% / 360% of spell power Damage on 3rd use: 150% / 225% / 360% of spell power
+Salamander,Sorceror,None,nslh,Hatchling,3,700,1260,2268,40,60,90,700,1.43,20,20,15,75,Damage: 250% / 375% / 550% of spell power
+Revenant,Marksman,None,nsrv,Sea,3,650,1170,2106,55,83,124,700,1.33,20,20,0,60,1st damage: 295% / 295% / 305% of attack power Secondary damage: 180% / 180% / 180% of attack power Attack Speed: 40% of Spell Power
+Furbolg,Warden,None,nfpt,Tracker,3,850,1530,2754,60,90,135,100,1.54,55,55,70,120,Shield: 500% / 575% / 650% of spell power Damage: 220% / 330% / 525% of spell power Final damage: 220% / 330% / 525% of spell power
+Nerubian,Sorceror,None,nnwl ,Webspinner,1,450,810,1458,40,60,90,700,1.33,15,15,15,60,Damage: 300% / 450% / 675% of spell power
+Orc,Defender,Conduit,okod,Kodo,3,850,1530,2754,50,75,113,100,1.67,50,50,0,90,Shield: 250% / 300% / 350% of spell power Damage %: 70% / 90% / 115%
+Furbolg,Bastion,None,nfpl,Warrior,1,650,1170,2106,55,83,124,100,1.54,35,35,0,0,Health Regeneration: 20% / 25% / 35% of spell power Attack Speed: 1% per 0.15% of health
+Elves,Defender,None,emtg,Mountain Giant,2,750,1350,2430,55,83,124,100,1.67,45,45,0,60,Damage reduction: 25% / 25% / 30% of spell power Total damage reduction: (up to 70%) 20% + damage reduction proportional to spell power Damage: 200% of attack power
+Fae,Crusher,None,edcm,Spirit Bear,4,1000,1800,3240,60,90,135,100,1.54,65,65,30,100,Damage: 260% / 260% / 525% of attack power Additional attack damage: 3% of maximum health Health Recovery: 5% / 5% / 10% of maximum health
+Murloc,Berserker,None,nmrl,Tiderunner,5,1050,1890,3402,75,113,169,100,1.11,60,60,0,40,Number of items copied: 1 / 1 / 3 Damage: 470% / 470% / 1000% (proportional to attack power) Additional damage: 60% / 60% / 500% of damage (proportional to spell power)
+Human,Warblade,None,hkni,Knight,3,800,1440,2592,60,90,135,100,1.33,40,40,50,100,Ability power proportional shield: 100% / 120% / 140% Shield: 250% of attack power + shield proportional to spell power Damage: 90% of attack power
+Satyr,Reaver,None,nsts,Shadowdancer,3,600,1080,1944,60,90,135,700,1.43,20,20,0,100,Damage: 240% / 240% / 250% of attack power Damage per style: 110% of attack power Attack Speed: 20% of Spell Power
+Murloc,Ranger,None,nmrr,Huntsman,2,600,1080,1944,40,60,90,700,1.43,20,20,30,90,Damage: 105% / 155% / 225% of spell power
+Orc,Mage,None,oshm,Shaman,2,550,990,1782,40,60,90,700,1.43,25,25,0,60,Damage: 140% / 210% / 315% Health recovery: 80% / 120% / 160%
+Naga,Bastion,Crusher,nmyr,Myrmidon,3,950,1710,3078,55,83,124,100,1.43,45,45,30,90,Shield: 375 / 425 / 475 Damage: 275% / 420% / 680% of spell power Cone Damage: 130% / 210% / 340% of Spell Power
+Demon,Mage,None,ndqt,Temptress,5,850,1530,2754,45,68,101,700,1.18,40,40,0,170,[Dynamic] Maximum health %: 5% / 8% / 100% [Dynamic] Shield: 350% / 550% / 3333% [Dynamic] Duration: 2 / 2 / 30 [Illusion] Basic continuous effect attack speed: 20% / 30% / 500% Attack speed when using [Illusion]: 100% / 150% / 777% [Illusion] Damage per hit: 75% / 115% / 777% [Concussion] Spell Power: 3 / 4 / 100 [Concussion] Damage: 450% / 675% / 7777% [Concussion] Number of targets: 5 / 5 / 11
+Satyr,Bastion,None,nsty,Flayer,1,650,1170,2106,70,105,158,100,1.82,40,40,0,0,Damage reduction: 12% / 15% / 25% of spell power
+Nerubian,Defender,None,nnwr,Seer,1,650,1170,2106,55,83,124,100,1.82,40,40,50,140,Base Shield: 240 / 290 / 330 Shield: Base shield + 6% of maximum health Damage: 250% / 375% / 565% of spell power
+Nerubian,Sorceror,None,nnwq,Queen,4,1050,1890,3402,60,90,135,100,1.54,60,60,70,160,Damage: 150% / 225% / 1200% of spell power Health Recovery: 250 / 300 / 600 Stun Duration: 1.75 / 2 / 8
+Satyr,Defender,None,nsat,Trickster,4,700,1260,2268,45,68,101,700,1.33,30,30,30,120,Damage: 45% / 70% / 225% of spell power Number of cards: 21 + 1 per 20% bonus attack speed
+Elves,Reaver,None,esen,Huntress,2,550,990,1782,45,68,101,700,1.43,25,25,20,70,Secondary magic damage: 35% / 50% / 80% of spell power 1st damage: 250% of attack power
+Satyr,Crusher,None,nstl,Soulstealer,3,750,1350,2430,60,90,135,300,1.33,45,45,0,20,Damage proportional to spell power: 15% / 25% / 40% of spell power Damage proportional to attack power: 160% / 160% / 165% of attack power Total damage: damage proportional to attack power + damage proportional to spell power
+Fae,Reaver,None,efdr,Faerie Dragon,3,700,1260,2268,40,60,90,700,1.33,20,20,25,75,Damage: 255% / 380% / 610% of spell power
+Elves,Crusher,None,edoc,Druid of the Claw,1,650,1170,2106,55,83,124,100,1.67,45,45,40,70,Stun Duration: 1.5 / 1.75 / 2 Defense reduction: 15% / 18% / 20% of spell power Damage: 330% of attack power Enhanced damage: 450% of attack power
+Furbolg,Fighter,None,nfpu,Ursa,4,1000,1800,3240,75,113,169,100,1.18,65,65,70,120,Slash damage: 225% / 225% / 450% of attack power Enhanced attack damage: 185% / 185% / 370% of attack power Duration: 5% of spell power
+Murloc,Fighter,None,nmmu,Mutant,1,650,1170,2106,50,75,113,100,1.33,40,40,0,50,Damage: 280% of attack power + 20% of spell power
+Naga,Berserker,Warblade,nnrg,Royal Guard,3,800,1440,2592,65,98,146,100,1.25,40,40,0,70,Damage: 210% / 210% / 215% of attack power All damage lifesteal stacks: 8% of spell power
+Furbolg,Defender,Crusher,nfrp,Primal,5,1050,1890,3402,88,132,198,100,1.25,60,60,60,110,Wraith: 9 / 10 / 25 Wraith Damage: 150% / 150% / 1000% Giant Wraith Health: 900 / 1750 / 9001 Giant Wraith Damage: 250% / 250% / 2000%
+Salamander,Bastion,None,nsll,Lord,4,1100,1980,3564,50,75,113,100,1.54,70,70,60,120,Damage: 120% / 180% / 1200% of spell power Health Recovery: 120% / 160% / 800% of Spell Power
+Salamander,Berserker,None,nslv,Vizier,4,1000,1800,3240,75,113,169,100,1.05,60,60,30,50,Shadow attack power: 175% / 175% / 350% of attack power Damage: 350% / 350% / 700% of attack power Health base: 15% of spell power
+Stormcaller,Sorceror,None,nsrw,Warlock,5,800,1440,2592,45,68,101,700,1.25,40,0,30,75,Damage: 360% / 540% / 4000% Disruption Damage: 90% / 135% / 500%
